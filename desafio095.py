@@ -1,4 +1,4 @@
-
+#Ultimo teste Dicionarios
 ficha=[]
 copia=[]
 while True:      
